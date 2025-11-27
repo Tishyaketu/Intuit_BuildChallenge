@@ -1,0 +1,6 @@
+com/assessment/workers/Consumer.class
+com/assessment/workers/Producer.class
+com/assessment/core/SharedQueue.class
+com/assessment/app/Main.class
+com/assessment/tests/TestSharedQueue.class
+com/assessment/tests/TestSharedQueue$TestResult.class

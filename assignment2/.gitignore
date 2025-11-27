@@ -1,2 +1,4 @@
 
+src/sales_analysis/__pycache__
+src/tests/__pycache__
 .gitignore
