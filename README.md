@@ -110,6 +110,8 @@ python3 -m unittest discover -s tests -v
 
 #### Check Code Coverage:
 
+Kindly make sure The `coverage` Python package is installed to check code coverage.
+
 ```bash
 python3 -m coverage run --source=src -m unittest discover -s tests -v
 python3 -m coverage report -m
