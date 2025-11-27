@@ -1,6 +1,6 @@
 # 🛠️ Intuit Build Challenge: Combined Solutions
 
-This document combines the technical READMEs for the two required assignments in the Intuit Build Challenge, demonstrating proficiency in **Concurrent Programming (Assignment 1)** and **Functional Programming/Data Analysis (Assignment 2)**.
+This document combines the technical READMEs for the two required assignments in the Intuit Build Challenge, demonstrating proficiency in **Concurrent Programming (Assignment 1)** and **Functional Programming/Data Analysis (Assignment 2)**. The console outputs screenshots are included in the results folder.
 
 ---
 
